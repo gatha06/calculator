@@ -55,10 +55,10 @@ button:hover {
 }
 
 .equal {
-    grid-column: span 1;
+    grid-column: span 4;
     background: #ff9500;
 }
 
 .equal:hover {
-    background: #e08a00;
+    background: #e08a00;
 }
